@@ -1,3 +1,9 @@
+# About this fork
+
+I wanted to get this running in 2021. I think it requires CUDA so I hit a wall past a certain point. But maybe it works for you?
+-Chris
+
+
 # Deep Motion: A Convolutional Neural Network for Frame Interpolation
 Use a DCNN to perform frame interpolation.
 

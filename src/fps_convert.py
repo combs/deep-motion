@@ -16,7 +16,8 @@ import time
 import random
 
 import numpy as np
-from scipy.misc import imread, imsave, imshow, imresize
+from imageio import imread, imsave
+from scipy.ndimage import zoom as imresize
 import cv2
 
 from FI_unet import get_unet_2
